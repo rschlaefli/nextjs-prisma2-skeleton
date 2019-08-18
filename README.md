@@ -9,3 +9,4 @@ Important commands:
 - `prisma2 lift up`
 - `prisma2 generate`
 - `npm run seed`
+- `npm run dev`
